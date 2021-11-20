@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Hamidansarim
+- 👋 Hi, I’m Hamid Ansari
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+
 
 <!---
 Hamidansarim/Hamidansarim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
